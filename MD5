@@ -1,5 +1,5 @@
-cb0b016c477e3a2f6fb804d15aa5faa1 *DESCRIPTION
-012592abf4b40a8d741b299df2ded05a *NAMESPACE
+7a782056a089a05882a0fbbac7923034 *DESCRIPTION
+b11c409a46ba5e338425d1f0006268e7 *NAMESPACE
 2f36bbc0081de16b48553862d3402062 *R/any.R
 375864a9e68ed3ba94131447d19a8bf6 *inst/tests/test_anylength.R
 77c4974b78d91147df59dd7611158768 *inst/tests/test_anytypes.R
@@ -8,6 +8,6 @@ d5052c6b0b8161ce5b1fbc905fed64b9 *inst/tests/test_is.empty.R
 825b43ca344127f763998dcdd7c4e4ca *man/anylength.Rd
 bce69d2491356902c2c1a915a0093c0e *man/anynames.Rd
 9cd272b13702b73505688fd38348c976 *man/anytypes.Rd
-a88a04a71f31bcd0535d95e6b7455a78 *man/futile.any-package.Rd
+eea7d2852af50e4099d4b58b1c7a9e93 *man/futile.any-package.Rd
 510812317afc83d0b0e95b93569a2935 *man/is.bad.Rd
-4e20c271b5f5d48e1f07cfe54d1a286f *tests/run_tests.R
+d6640b0ab215d76793227f248c0d3a12 *tests/run_tests.R
